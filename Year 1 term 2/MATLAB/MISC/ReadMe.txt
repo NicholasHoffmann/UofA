@@ -1,0 +1,1 @@
+These were a few projects I made out of curiosity of how some functions work and served as an extension to learning more about MATLAB.

@@ -1,0 +1,1 @@
+These were some basic programs to speed up my linear algebra labs (MATH102)
